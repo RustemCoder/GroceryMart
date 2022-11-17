@@ -606,3 +606,8 @@ java.lang.Exception: File not found: C:\mart\src\test\java\com\grocery\mart\Mart
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:160)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:251)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 2 2022-11-16 22:09:14.448
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-16 22:09:14.449
+!MESSAGE The project description file (.project) for 'mart' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
